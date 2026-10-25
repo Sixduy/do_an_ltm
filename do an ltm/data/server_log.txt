@@ -1,0 +1,128 @@
+[2026-10-25 04:02:05] [/127.0.0.1:60587 - StressTester-7]: Stress test message tu thread #7
+[2026-10-25 04:02:05] [/127.0.0.1:60590 - StressTester-10]: Stress test message tu thread #10
+[2026-10-25 04:02:05] [/127.0.0.1:60589 - StressTester-3]: Stress test message tu thread #3
+[2026-10-25 04:02:05] [/127.0.0.1:60584 - StressTester-4]: Stress test message tu thread #4
+[2026-10-25 04:02:05] [/127.0.0.1:60585 - StressTester-2]: Stress test message tu thread #2
+[2026-10-25 04:02:05] [/127.0.0.1:60588 - StressTester-9]: Stress test message tu thread #9
+[2026-10-25 04:02:05] [/127.0.0.1:60581 - StressTester-8]: Stress test message tu thread #8
+[2026-10-25 04:02:05] [/127.0.0.1:60583 - StressTester-5]: Stress test message tu thread #5
+[2026-10-25 04:02:05] [/127.0.0.1:60582 - StressTester-1]: Stress test message tu thread #1
+[2026-10-25 04:02:05] [/127.0.0.1:60586 - StressTester-6]: Stress test message tu thread #6
+[2026-10-25 04:02:30] [/127.0.0.1:60608 - StressTester-10]: Stress test message tu thread #10
+[2026-10-25 04:02:30] [/127.0.0.1:60612 - StressTester-2]: Stress test message tu thread #2
+[2026-10-25 04:02:30] [/127.0.0.1:60610 - StressTester-9]: Stress test message tu thread #9
+[2026-10-25 04:02:30] [/127.0.0.1:60611 - StressTester-8]: Stress test message tu thread #8
+[2026-10-25 04:02:30] [/127.0.0.1:60606 - StressTester-4]: Stress test message tu thread #4
+[2026-10-25 04:02:30] [/127.0.0.1:60605 - StressTester-5]: Stress test message tu thread #5
+[2026-10-25 04:02:30] [/127.0.0.1:60604 - StressTester-1]: Stress test message tu thread #1
+[2026-10-25 04:02:30] [/127.0.0.1:60607 - StressTester-7]: Stress test message tu thread #7
+[2026-10-25 04:02:30] [/127.0.0.1:60613 - StressTester-6]: Stress test message tu thread #6
+[2026-10-25 04:02:30] [/127.0.0.1:60609 - StressTester-3]: Stress test message tu thread #3
+[2026-10-25 04:03:29] [/127.0.0.1:60618 - Client-652]: jy
+[2026-10-25 04:10:05] [/127.0.0.1:64441 - Client-433]: hi
+[2026-10-25 04:10:15] [/127.0.0.1:64443 - Client-348]: hi
+[2026-10-25 04:11:36] [/127.0.0.1:51961 - StressTester-1]: Stress test message tu thread #1
+[2026-10-25 04:11:36] [/127.0.0.1:51964 - StressTester-6]: Stress test message tu thread #6
+[2026-10-25 04:11:36] [/127.0.0.1:51963 - StressTester-3]: Stress test message tu thread #3
+[2026-10-25 04:11:36] [/127.0.0.1:51965 - StressTester-4]: Stress test message tu thread #4
+[2026-10-25 04:11:36] [/127.0.0.1:51962 - StressTester-2]: Stress test message tu thread #2
+[2026-10-25 04:11:36] [/127.0.0.1:51969 - StressTester-10]: Stress test message tu thread #10
+[2026-10-25 04:11:36] [/127.0.0.1:51967 - StressTester-7]: Stress test message tu thread #7
+[2026-10-25 04:11:36] [/127.0.0.1:51970 - StressTester-9]: Stress test message tu thread #9
+[2026-10-25 04:11:36] [/127.0.0.1:51968 - StressTester-8]: Stress test message tu thread #8
+[2026-10-25 04:11:36] [/127.0.0.1:51966 - StressTester-5]: Stress test message tu thread #5
+[2026-10-25 04:28:11] [FILE] User U005 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U008 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U009 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U010 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U003 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U006 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U007 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U004 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U001 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:28:11] [FILE] User U002 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:38:45] [FILE] User U002 đã gửi tệp Doc1.docx (619321 bytes, 6194 đoạn 100B) thành công.
+[2026-10-25 04:40:33] [FILE] User U006 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:40:33] [FILE] User U007 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:40:33] [FILE] User U008 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:40:33] [FILE] User U002 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:40:33] [FILE] User U001 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:40:33] [FILE] User U004 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:40:33] [FILE] User U010 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:40:33] [FILE] User U009 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:56:41] [FILE] User U001 đã gửi tệp 3.docx (356697 bytes, 3567 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U007 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U010 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U004 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U002 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U005 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U006 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U009 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U008 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U003 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 04:58:49] [FILE] User U001 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:05:20] [TIN NHẮN RIÊNG] Từ User U001 gửi riêng tới User U002: "hi"
+[2026-10-25 05:05:37] [FILE] User U002 đã gửi tệp QLHTNH-Anti.docx (702985 bytes, 7030 đoạn 100B) thành công.
+[2026-10-25 05:05:45] [FILE] User U002 đã gửi tệp QLHTNH-Anti.docx (702985 bytes, 7030 đoạn 100B) thành công.
+[2026-10-25 05:10:28] [TIN NHẮN RIÊNG] Từ User U001 gửi riêng tới User U002: "gg"
+[2026-10-25 05:11:04] [FILE] User U002 đã gửi tệp Quan_Ly_Nha_Hang_Nhom10.docx (1243048 bytes, 12431 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U008 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U001 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U004 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U005 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U002 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U003 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U006 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U010 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U009 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:20] [FILE] User U007 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:11:49] [TIN NHẮN RIÊNG] Từ User U001 gửi riêng tới User U002: "hi"
+[2026-10-25 05:19:54] [TIN NHẮN RIÊNG] Từ User U002 gửi riêng tới User U001: "fd"
+[2026-10-25 05:20:12] [TIN NHẮN RIÊNG] Từ User U001 gửi riêng tới User U002: "rtr"
+[2026-10-25 05:21:09] [FILE] User U010 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U007 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U004 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U001 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U002 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U003 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U005 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U006 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U008 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 05:21:09] [FILE] User U009 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U009 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U008 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U010 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U005 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U001 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U003 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U004 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U006 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U007 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:29:08] [FILE] User U002 đã gửi tệp sample_test.pdf (687 bytes, 7 đoạn 100B) thành công.
+[2026-10-25 17:58:20] [FILE] User U001 đã gửi tệp Quan_Ly_Nha_Hang_Nhom10.docx (1243048 bytes, 12431 đoạn 100B) thành công. SHA-256: 4a82d25ceb88869c8cbb94ea4dec013b53cbfadfe79aeb626a9a09b338f6c8f0 (Toàn vẹn 100%).
+[2026-10-25 18:24:47] [TIN NHẮN RIÊNG] Từ User U001 gửi riêng tới User U002: "hi"
+[2026-10-25 18:33:13] [TIN NHẮN RIÊNG] Từ User U001 gửi riêng tới User U002: "hi"
+[2026-10-25 18:33:31] [TIN NHẮN RIÊNG] Từ User U002 gửi riêng tới User U002: "hi"
+[2026-10-25 18:33:40] [TIN NHẮN RIÊNG] Từ User U002 gửi riêng tới User U001: "hi"
+[2026-10-25 18:45:07] [ĐĂNG KÝ] Server đã ghi nhận người dùng: U003 (Le Van C, c@gmail.com) từ /127.0.0.1:50912
+[2026-10-25 18:46:12] [TIN NHẮN RIÊNG] Từ User U001 gửi riêng tới User U003: "hi"
+[2026-10-25 18:46:56] [FILE] User U003 đã gửi tệp Quan_Ly_Nha_Hang_Nhom10.docx (1243048 bytes, 12431 đoạn 100B) thành công.
+[2026-10-25 18:59:21] [ĐĂNG NHẬP] Người dùng [U001 - Nguyen Van A] đăng nhập thành công từ /127.0.0.1:55999
+[2026-10-25 18:59:22] [KẾT NỐI] Người dùng [U001] đã mở kênh nhận tin riêng. Tổng online: 1
+[2026-10-25 19:00:17] [ĐĂNG NHẬP] Người dùng [U002 - Tran Van B] đăng nhập thành công từ /127.0.0.1:56002
+[2026-10-25 19:00:18] [KẾT NỐI] Người dùng [U002] đã mở kênh nhận tin riêng. Tổng online: 2
+[2026-10-25 19:00:40] [TIN NHẮN RIÊNG] Từ User U002 gửi riêng tới User U001: "hi"
+[2026-10-25 19:00:44] [TIN NHẮN RIÊNG] Từ User U001 gửi riêng tới User U002: "hi"
+[2026-10-25 19:01:18] [FILE] User U001 đã gửi tệp [1] Trang bia bao cao (Repaired).doc (8166400 bytes, 81664 đoạn 100B) thành công.
+[2026-10-25 19:04:36] [ĐĂNG NHẬP] Người dùng [U001 - Nguyen Van A] đăng nhập thành công từ /127.0.0.1:57459
+[2026-10-25 19:04:37] [KẾT NỐI] Người dùng [U001] đã mở kênh nhận tin riêng. Tổng online: 1
+[2026-10-25 19:04:54] [ĐĂNG NHẬP] Người dùng [U002 - Tran Van B] đăng nhập thành công từ /127.0.0.1:57462
+[2026-10-25 19:04:55] [KẾT NỐI] Người dùng [U002] đã mở kênh nhận tin riêng. Tổng online: 2
+[2026-10-25 19:06:09] [NGẮT KẾT NỐI] Người dùng [U001] đã ngắt kết nối. Còn online: 0
+[2026-10-25 19:06:09] [NGẮT KẾT NỐI] Người dùng [U002] đã ngắt kết nối. Còn online: 0
+[2026-10-25 19:28:45] [ĐĂNG NHẬP] Người dùng [U001 - Nguyen Van A] đăng nhập thành công từ /127.0.0.1:52151
+[2026-10-25 19:28:46] [KẾT NỐI] Người dùng [U001] đã mở kênh nhận tin riêng. Tổng online: 1
+[2026-10-25 19:29:38] [NGẮT KẾT NỐI] Người dùng [U001] đã ngắt kết nối. Còn online: 0
+[2026-10-25 19:42:29] [ĐĂNG NHẬP] Người dùng [U001 - Nguyen Van A] đăng nhập thành công từ /127.0.0.1:64159
+[2026-10-25 19:42:30] [KẾT NỐI] Người dùng [U001] đã mở kênh nhận tin riêng. Tổng online: 1
+[2026-10-25 19:43:06] [NGẮT KẾT NỐI] Người dùng [U001] đã ngắt kết nối. Còn online: 0
