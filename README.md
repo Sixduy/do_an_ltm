@@ -1,5 +1,3 @@
-# do_an_ltm
----
 
 ## 📌 1. Giới Thiệu Tổng Quan
 Đồ án xây dựng một hệ thống mạng hoàn chỉnh theo kiến trúc **Client - Server** bằng ngôn ngữ **Java**, tích hợp đầy đủ các kỹ thuật cốt lõi của môn học Lập trình mạng:
